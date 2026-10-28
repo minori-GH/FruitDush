@@ -25,7 +25,6 @@ Unity・C#で個人開発した、スマートフォン向けの2Dアクショ�
 | ゲームエンジン | Unity6 |
 | 開発言語 | C# |
 | 開発体制 | 個人開発 |
-| 主な使用パッケージ | TextMeshPro、Unity Localization、Google Mobile Ads SDK |
 
 ## 操作方法
 
